@@ -1,0 +1,134 @@
+[
+  {
+      "response_type": "greeting",
+      "user_input": ["hello", "hi", "hey", "halo"],
+      "bot_response": "Hai! Apa ada yang dapat saya bantu?",
+      "required_words": []
+  },
+  {
+      "response_type": "greeting",
+      "user_input": ["see you", "goodbye", "bye", "babay", "dadah"],
+      "bot_response": "Sampai jumpa!",
+      "required_words": []
+  },
+  {
+      "response_type": "question",
+      "user_input": ["bagaimana kabarmu"],
+      "bot_response": "Saya baik! Terima kasih sudah bertanya.",
+      "required_words": ["bagaimana kabarmu"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["definisi", "diabetes"],
+      "bot_response": "Diabetes adalah penyakit yang disebabkan oleh kadar gula darah yang tinggi dalam jangka waktu yang lama.",
+      "required_words": ["definisi", "diabetes"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["gejala", "diabetes"],
+      "bot_response": "Gejala diabetes meliputi sering merasa haus, sering buang air kecil, kelelahan, dan penurunan berat badan tanpa sebab.",
+      "required_words": ["gejala", "diabetes"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["penanganan", "diabetes"],
+      "bot_response": "Penanganan diabetes meliputi pengaturan pola makan, olahraga teratur, dan pengendalian kadar gula darah dengan obat-obatan.",
+      "required_words": ["penanganan", "diabetes"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["definisi", "katarak"],
+      "bot_response": "Katarak adalah kondisi dimana lensa mata menjadi keruh, mengakibatkan pandangan menjadi kabur atau buram.",
+      "required_words": ["definisi", "katarak"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["gejala", "katarak"],
+      "bot_response": "Gejala katarak meliputi penglihatan kabur, sensitif terhadap cahaya, dan sulit melihat pada kondisi cahaya redup.",
+      "required_words": ["gejala", "katarak"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["penanganan", "katarak", "menagani"],
+      "bot_response": "Penanganan katarak adalah dengan operasi penggantian lensa mata yang keruh dengan lensa buatan.",
+      "required_words": ["penanganan", "katarak", "menagani"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["definisi", "glaukoma"],
+      "bot_response": "Glaukoma adalah kondisi dimana tekanan dalam mata meningkat, yang dapat merusak saraf mata dan mengakibatkan kehilangan penglihatan.",
+      "required_words": ["definisi", "glaukoma"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["gejala", "glaukoma"],
+      "bot_response": "Gejala glaukoma meliputi penglihatan kabur, mata menjadi merah, nyeri mata, dan muncul bintik buta di bidang penglihatan.",
+      "required_words": ["gejala", "glaukoma"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["penanganan", "menangani", "glaukoma"],
+      "bot_response": "Penanganan glaukoma meliputi penggunaan obat penurun tekanan mata, operasi, atau terapi laser untuk mengurangi tekanan mata.",
+      "required_words": ["penanganan", "glaukoma", "menagani"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["jenis", "diabetes", "menagani"],
+      "bot_response": "Ada tiga jenis diabetes, yaitu diabetes tipe 1, diabetes tipe 2, dan diabetes gestasional.",
+      "required_words": ["jenis", "diabetes", "menagani"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["faktor", "risiko", "katarak"],
+      "bot_response": "Faktor risiko katarak meliputi usia tua, diabetes, paparan sinar matahari berlebihan, dan konsumsi alkohol.",
+      "required_words": ["faktor", "risiko", "katarak"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["siapa", "berisiko", "glaukoma"],
+      "bot_response": "Orang yang berusia di atas 60 tahun, memiliki riwayat keluarga dengan glaukoma, atau memiliki tekanan mata tinggi berisiko mengalami glaukoma.",
+      "required_words": ["siapa", "berisiko", "glaukoma"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["pencegahan", "diabetes"],
+      "bot_response": "Pencegahan diabetes dapat dilakukan dengan mengontrol berat badan, menjaga pola makan sehat, dan rutin berolahraga.",
+      "required_words": ["pencegahan", "diabetes"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["pencegahan", "katarak"],
+      "bot_response": "Pencegahan katarak meliputi penggunaan kacamata hitam saat berada di bawah sinar matahari, menghindari rokok, dan menjaga kesehatan makanan.",
+      "required_words": ["pencegahan", "katarak"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["pencegahan", "glaukoma"],
+      "bot_response": "Pencegahan glaukoma meliputi pemeriksaan mata rutin, menghindari cedera pada mata, dan menjaga tekanan darah serta kolesterol dalam batas normal.",
+      "required_words": ["pencegahan", "glaukoma"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["komplikasi", "diabetes"],
+      "bot_response": "Komplikasi diabetes meliputi penyakit jantung, stroke, gagal ginjal, kerusakan saraf, dan masalah mata seperti retinopati diabetik.",
+      "required_words": ["komplikasi", "diabetes"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["operasi", "katarak"],
+      "bot_response": "Operasi katarak adalah prosedur pengangkatan lensa mata yang keruh dan penggantian dengan lensa buatan yang jernih.",
+      "required_words": ["operasi", "katarak"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["kesempatan", "sembuh", "glaukoma"],
+      "bot_response": "Glaukoma tidak dapat disembuhkan sepenuhnya, namun dengan pengobatan yang tepat dan rutin, dapat dikendalikan untuk mencegah kerusakan lebih lanjut pada penglihatan.",
+      "required_words": ["kesempatan", "sembuh", "glaukoma"]
+  },
+  {
+      "response_type": "info",
+      "user_input": ["riwayat", "glaukoma", "keluarga"],
+      "bot_response": "Jika ada riwayat glaukoma dalam keluarga, penting untuk melakukan pemeriksaan mata secara rutin untuk mendeteksi dan mengobati glaukoma pada tahap awal.",
+      "required_words": ["riwayat", "glaukoma", "keluarga"]
+  }
+]
